@@ -1,8 +1,5 @@
 # React + Vite
+React calculator - in this project I showed how to use react components, moduler CSS, parent-child relation, click event, and Props. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/Afif718/React-Calculator/assets/39927237/b1b9ba76-13bc-4455-806a-2d3d786a5ef5)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
